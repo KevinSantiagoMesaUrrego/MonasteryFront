@@ -9,7 +9,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
+        blanco: "#B6C9BB",
+        rojo: "#D2935",
+        verde: "#358600",
+        verdeOscuro: "#093824",
+        azul: "#1A1BA1",
+        gris: "#747982",
         foreground: "var(--foreground)",
       },
     },
